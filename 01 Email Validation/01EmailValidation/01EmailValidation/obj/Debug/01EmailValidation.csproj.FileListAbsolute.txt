@@ -1,0 +1,8 @@
+C:\Projects\MyProjects\C#\CodeChallenges\01 Email Validation\01EmailValidation\01EmailValidation\bin\Debug\01EmailValidation.exe.config
+C:\Projects\MyProjects\C#\CodeChallenges\01 Email Validation\01EmailValidation\01EmailValidation\bin\Debug\01EmailValidation.exe
+C:\Projects\MyProjects\C#\CodeChallenges\01 Email Validation\01EmailValidation\01EmailValidation\bin\Debug\01EmailValidation.pdb
+C:\Projects\MyProjects\C#\CodeChallenges\01 Email Validation\01EmailValidation\01EmailValidation\obj\Debug\01EmailValidation.csproj.AssemblyReference.cache
+C:\Projects\MyProjects\C#\CodeChallenges\01 Email Validation\01EmailValidation\01EmailValidation\obj\Debug\01EmailValidation.csproj.SuggestedBindingRedirects.cache
+C:\Projects\MyProjects\C#\CodeChallenges\01 Email Validation\01EmailValidation\01EmailValidation\obj\Debug\01EmailValidation.csproj.CoreCompileInputs.cache
+C:\Projects\MyProjects\C#\CodeChallenges\01 Email Validation\01EmailValidation\01EmailValidation\obj\Debug\01EmailValidation.exe
+C:\Projects\MyProjects\C#\CodeChallenges\01 Email Validation\01EmailValidation\01EmailValidation\obj\Debug\01EmailValidation.pdb
