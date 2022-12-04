@@ -1,0 +1,8 @@
+C:\Projects\MyProjects\C#\CodeChallenges\02 Decomposing URLs\02 Decomposing URLs\02 Decomposing URLs\bin\Debug\02 Decomposing URLs.exe.config
+C:\Projects\MyProjects\C#\CodeChallenges\02 Decomposing URLs\02 Decomposing URLs\02 Decomposing URLs\bin\Debug\02 Decomposing URLs.exe
+C:\Projects\MyProjects\C#\CodeChallenges\02 Decomposing URLs\02 Decomposing URLs\02 Decomposing URLs\bin\Debug\02 Decomposing URLs.pdb
+C:\Projects\MyProjects\C#\CodeChallenges\02 Decomposing URLs\02 Decomposing URLs\02 Decomposing URLs\obj\Debug\02 Decomposing URLs.csproj.AssemblyReference.cache
+C:\Projects\MyProjects\C#\CodeChallenges\02 Decomposing URLs\02 Decomposing URLs\02 Decomposing URLs\obj\Debug\02 Decomposing URLs.csproj.SuggestedBindingRedirects.cache
+C:\Projects\MyProjects\C#\CodeChallenges\02 Decomposing URLs\02 Decomposing URLs\02 Decomposing URLs\obj\Debug\02 Decomposing URLs.csproj.CoreCompileInputs.cache
+C:\Projects\MyProjects\C#\CodeChallenges\02 Decomposing URLs\02 Decomposing URLs\02 Decomposing URLs\obj\Debug\02 Decomposing URLs.exe
+C:\Projects\MyProjects\C#\CodeChallenges\02 Decomposing URLs\02 Decomposing URLs\02 Decomposing URLs\obj\Debug\02 Decomposing URLs.pdb
