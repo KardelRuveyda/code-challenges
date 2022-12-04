@@ -1,0 +1,8 @@
+C:\Projects\MyProjects\C#\CodeChallenges\03 Calculating Season Vowels\03 Calculating Season\03 Calculating Season\bin\Debug\03 Calculating Season.exe.config
+C:\Projects\MyProjects\C#\CodeChallenges\03 Calculating Season Vowels\03 Calculating Season\03 Calculating Season\bin\Debug\03 Calculating Season.exe
+C:\Projects\MyProjects\C#\CodeChallenges\03 Calculating Season Vowels\03 Calculating Season\03 Calculating Season\bin\Debug\03 Calculating Season.pdb
+C:\Projects\MyProjects\C#\CodeChallenges\03 Calculating Season Vowels\03 Calculating Season\03 Calculating Season\obj\Debug\03 Calculating Season.csproj.AssemblyReference.cache
+C:\Projects\MyProjects\C#\CodeChallenges\03 Calculating Season Vowels\03 Calculating Season\03 Calculating Season\obj\Debug\03 Calculating Season.csproj.SuggestedBindingRedirects.cache
+C:\Projects\MyProjects\C#\CodeChallenges\03 Calculating Season Vowels\03 Calculating Season\03 Calculating Season\obj\Debug\03 Calculating Season.csproj.CoreCompileInputs.cache
+C:\Projects\MyProjects\C#\CodeChallenges\03 Calculating Season Vowels\03 Calculating Season\03 Calculating Season\obj\Debug\03 Calculating Season.exe
+C:\Projects\MyProjects\C#\CodeChallenges\03 Calculating Season Vowels\03 Calculating Season\03 Calculating Season\obj\Debug\03 Calculating Season.pdb
